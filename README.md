@@ -71,9 +71,9 @@ This project helped me practice:
 * Add a study progress percentage
 * Save study records
 * Add a simple menu system
-  ## Author
+
+## Author
 
 **Riddhi Deshmukh**
 
-A beginner Python project created while learning Python programming and building practical projects.
 
